@@ -1,10 +1,12 @@
 # Image Processing for Fire Detection
+The objective of this project is to build the high performance system that can detect fire object by using image data from both visible light and infrared light. 
 
 - Capstone Design Project
 - 2014.03 ~ 2014.06
 - 지도교수: 김윤관, 팀원: 김영수, 권지헌, 한지웅, 홍단비
-- 최종 리포트 (final report): [[link]](https://1drv.ms/w/s!AllPqyV9kKUrgXGdeFJ06NZIc4FE)
-- 목표 (objective): To build the high performance system that can detect fire object by using image data from both visible light and infrared light. 
+
+The report for this project is in [**here**](https://1drv.ms/w/s!AllPqyV9kKUrgXGdeFJ06NZIc4FE)
+
 
 ## Environment
 * 3 Raspberry pi board ( 2 client, 1 server )
