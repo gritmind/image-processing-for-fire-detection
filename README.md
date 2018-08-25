@@ -1,7 +1,7 @@
 # Image Processing for Fire Detection with Raspberry Pi
 The objective of this project is to build the high performance system that can detect fire object by using image data from both visible light and infrared light. 
 
-- Capstone Design Project
+- **Capstone Design Project**
 - 2014.03 ~ 2014.06
 - 지도교수: 김윤관, 
 - 팀원: 김영수, 권지헌, 한지웅, 홍단비
